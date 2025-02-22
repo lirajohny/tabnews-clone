@@ -1,2 +1,2 @@
 # tabnews
-Implementação do tabnews
+Implementação do tabnews.
